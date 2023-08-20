@@ -1,7 +1,9 @@
 用来解包/打包 OpenWRT 的 IPK 文件的脚本工具
+
 如果在 macOS 里使用，需要安装 gtar 和 gsed。
 
 cd ~/
+
 git clone https://github.com/wangshe/ipk-tools
 
 ## 解包
